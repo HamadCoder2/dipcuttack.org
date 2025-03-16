@@ -1,5 +1,7 @@
 # Diploma Engineering College Website - Cuttack
 
+View Live Preview [https://hamadcoder2.github.io/dipcuttack.org/]
+
 This is a **static website** for a **Diploma Engineering College in Cuttack**. The website consists of multiple HTML pages covering various aspects of the college, including academic information, facilities, and student resources.
 
 ## 📂 File Structure
